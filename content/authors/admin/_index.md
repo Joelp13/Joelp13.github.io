@@ -110,14 +110,11 @@ languages:
   - name: Malayalam
     percent: 80
 
-Awards.
-  
 awards:
   - title: Data Structures and Algorithm using Python
-    url:
     date: '2023-09-25'
     awarder: NPTEL
-    icon: coursera
+    icon: 
     summary: |
       In  "Programming Data Structures and Algorithms" course, I learned how to efficiently store, manipulate, and retrieve data using various data structures such as arrays, linked lists, trees, and hash tables. The course covered algorithm design, focusing on sorting, searching, and optimization techniques, while teaching how to analyze time and space complexity using Big-O notation. Key topics include recursion, dynamic programming, and graph algorithms for solving real-world problems like shortest paths and network optimization. These skills lay a strong foundation for writing efficient code and tackling complex computational challenges.
  
